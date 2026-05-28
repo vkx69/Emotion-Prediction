@@ -92,3 +92,5 @@ Improving the dataset or using deep learning models can improve accuracy.
 * Deployment on Streamlit Cloud
 
 ---
+👨‍💻 Author
+Vikas Kumar
